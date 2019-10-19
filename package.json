@@ -1,0 +1,23 @@
+{
+  "name": "local-tetris-friends",
+  "version": "1.0.0",
+  "description": "Tetris Friends (but local)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrjenny/local-tetris-friends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrjenny/local-tetris-friends/issues"
+  },
+  "homepage": "https://github.com/lrjenny/local-tetris-friends#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
